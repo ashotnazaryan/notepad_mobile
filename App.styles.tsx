@@ -8,7 +8,7 @@ export default StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    color: '#00ff00',
+    color: '#ff0000',
   },
   input: {
     height: 40,
